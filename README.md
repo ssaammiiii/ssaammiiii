@@ -1,16 +1,17 @@
-## Hi there 👋
+# Samia Soleimani
 
-<!--
-**ssaammiiii/ssaammiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering graduate from the University of Ghana, First Class.
 
-Here are some ideas to get you started:
+I’m interested in **machine learning, wearable sensing, and embedded systems**. I’m particularly interested in building intelligent systems that connect real-world sensing with machine learning and efficient on-device computation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Research
+
+**SignSpeak** — a wearable sign-language recognition system built with flex sensors, an MPU6050 IMU, and ESP32.
+
+I designed the sensing and data-collection pipeline, built a custom dataset, developed the preprocessing and embedded pipeline, and evaluated ML models for gesture recognition.
+
+**Sign Language Recognition with Computer Vision** — a webcam-based sign-language recognition system developed as a vision-based counterpart to SignSpeak, allowing us to compare camera-based and wearable-sensor approaches to gesture recognition.
+
+### Interests
+
+Machine learning · Wearable computing · Computer vision · Sensor fusion · Gesture recognition · Embedded/Edge AI · Human-computer interaction
