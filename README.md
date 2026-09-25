@@ -1,6 +1,6 @@
-# Samia Soleimani
+Hi, I'm Samia👋
 
-Computer Engineering graduate from the University of Ghana, First Class.
+I’m a Computer Engineering graduate from the University of Ghana, where I graduated with First Class.
 
 I’m interested in **machine learning, wearable sensing, and embedded systems**. I’m particularly interested in building intelligent systems that connect real-world sensing with machine learning and efficient on-device computation.
 
