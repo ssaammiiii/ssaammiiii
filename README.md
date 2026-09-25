@@ -1,4 +1,4 @@
-Hi, I'm Samia👋
+# Hi, I'm Samia👋
 
 I’m a Computer Engineering graduate from the University of Ghana.
 
